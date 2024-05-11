@@ -1,0 +1,48 @@
+
+
+.ananıamı{
+    font-family: "Outfit", sans-serif;
+    color:  hsl(220deg, 15%, 55%);
+    letter-spacing: 0.013rem;
+    font-size: 14px !important;
+    padding: 0.6rem;
+}
+
+.kart{
+    height: 100vh;
+    
+}
+
+
+.baslik{
+    border-radius: 1.4rem;
+    background-color: white;
+    border-radius: 20px;
+    max-width: 21.4rem;
+    padding: 0.95rem 1.1rem;
+    transition: all 0.3s ease-in-out;
+    
+    
+}
+
+.baslik:hover{
+    box-shadow: 0 0.063rem 0.188rem rgba(31, 50, 81, 0.12), 0 0.8rem 0.80rem rgba(31, 50, 81, 0.24);
+    
+}
+
+
+
+.h5{
+    font-weight: 900 !important;
+    color: hsl(218deg, 44%, 22%) !important;
+     
+    font-family: "Outfit", sans-serif;
+}
+
+.mt-4{
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    place-content: center;
+    padding: 0 30px ;
+}
